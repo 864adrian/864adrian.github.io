@@ -1,4 +1,4 @@
-import foto from "../assets/ibai1.png"
+import foto from "../assets/ibai.png"
 
 export default function Hero() {
   return (
